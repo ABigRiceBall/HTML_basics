@@ -1,0 +1,1 @@
+This is my first (technically second) HTML web page creation. In this lesson I am recreating the google homepage from scratch. After ths lesson I should know the basics of html and be able to create a simple webpage from scratch. Yeet.
